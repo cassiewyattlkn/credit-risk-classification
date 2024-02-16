@@ -17,6 +17,7 @@ High Risk Loans: 87%
 Recall:
 Healthy Loans: 100%
 High Risk Loans: 89%
+
 Machine Learning Model 2:
 
 Accuracy: 100%
@@ -26,6 +27,8 @@ High Risk Loans: 87%
 Recall:
 Healthy Loans: 100%
 High Risk Loans: 100%
+
+
 Summary
 
 The second model demonstrates marginally better predictive performance with a 100% accuracy rate. However, it is noteworthy that the precision for high-risk loans is only 87%, indicating potential inconsistencies in predicting loan defaults. Both models exhibit excellent accuracy in identifying healthy loans. However, their precision in identifying high-risk loans falls short of expectations, underscoring the challenges of accurately assessing creditworthiness, particularly for high-risk loans. This becomes particularly concerning given the inherent risk associated with such loans.
